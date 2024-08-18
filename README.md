@@ -1,5 +1,5 @@
 # README for Retailer Dashboard and Computation
-#### Alex Nichols, Harris Lencz, Cole Clark
+#### Alex Nichols, Harris Lencz, Cole Clark 
 #### Reach out to my email below with questions
 
 
