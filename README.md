@@ -8,6 +8,16 @@
 Mobile_Retail_Dashboard is a Python project designed to perform various computations related to retailer data. The main script, `run_computation.py`, orchestrates several Python scripts to compute insights and reports.
 Assuming a MainData.csv with 2 million rows, run time is roughly 25 minutes. 
 
+## Run It!
+
+### Computation
+
+To run all computation:  ```sh python run_computation_computation.py ```
+
+### Dashboard
+
+To run the streamlit application:   ```streamlit run Retail_Dashoard.py```
+
 ## Features
 
 - Cluster_Retailers.py: Clustering retailers (lightspeed)
@@ -37,15 +47,6 @@ Assuming a MainData.csv with 2 million rows, run time is roughly 25 minutes.
 For ```number of clusters``` files:
 1. **Cluster {i} Aggregated by POI**: Path to the first optional input file.
 2. **Main Data Aggregated by POI**: Path to the second optional input file.
-
-
-### Computation
-
-```sh python run_computation_computation.py ```
-
-### Dashboard
-
-```streamlit run Retail_Dashoard.py```
 
 
 ### anichols26@amherst.edu
