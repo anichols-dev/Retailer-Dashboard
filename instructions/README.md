@@ -3,8 +3,6 @@
 #### Reach out to 310-569-5672 with questions
 
 
-
-```markdown
 ## Overview
 
 Mobile_Retail_Dashboard is a Python project designed to perform various computations related to retailer data. The main script, `run_computation.py`, orchestrates the execution of several Python scripts to generate insights and reports.
