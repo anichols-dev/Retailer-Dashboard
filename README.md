@@ -12,7 +12,7 @@ Assuming a MainData.csv with 2 million rows, run time is roughly 25 minutes.
 
 #### Computation
 
-To run all computation:  ```sh python run_computation_computation.py ```
+To run all computation:  ```python3 run_computation_computation.py ```
 
 #### Dashboard
 
