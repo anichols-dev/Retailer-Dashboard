@@ -32,7 +32,7 @@ Assuming a MainData.csv with 2 million rows, run time is roughly 25 minutes.
 2. **Main Data**: Path to CSV with row as product, with columns for TransactionID, Product_of_Interest_Flag, etc
 
 ### Optional Inputs 
-(Stored in Assets / Requirements / Aggregations  ||  Program will save data at this incremental step for future efficiency. Find quickStep boolean in Populate_Adjacents to toggle this step)
+##### (Stored in Assets / Requirements / Aggregations  ||  Program will save data at this incremental step for future efficiency. Find quickStep boolean in Populate_Adjacents to toggle this step)
 
 For i in range(number of clusters):
 1. **Cluster i Aggregated by POI**: Path to the first optional input file.
