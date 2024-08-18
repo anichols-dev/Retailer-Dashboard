@@ -1,6 +1,6 @@
 # README for Retailer Dashboard and Computation
 #### Alex Nichols, Harris Lencz, Cole Clark
-#### Reach out to 310-569-5672 with questions
+#### Reach out to my email below with questions
 
 
 ## Overview
@@ -46,6 +46,8 @@ For i in range(number of clusters):
 
 ```streamlit run Retail_Dashoard.py```
 
+
+### anichols26@amherst.edu
 
 
 ##### Final Comments
