@@ -10,7 +10,10 @@ Assuming a MainData.csv with 2 million rows, run time is roughly 25 minutes.
 
 ## Run It!
 
-To set up, place your main transaction data and retailer clusters into ``` /assets/requirements ``` folders. 
+To set up, place your main transaction data and retailer clusters into ``` /assets/requirements ``` folders. Then, ensure the following files have the appropriate file_names:
+1. ```Cluster_Retailers.py```
+2. ```Populate_Adjacents.py```
+3. ```Basket_Insights.py```
 
 #### Computation
 
