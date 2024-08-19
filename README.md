@@ -15,7 +15,7 @@ Assuming a MainData.csv with 2 million rows (75 MB), run time is roughly **25 mi
 1. **Clustered Retailers**: CSV of retailerID and Cluster
 2. **Main Data**: CSV with row as product, with columns for TransactionID, Product_of_Interest_Flag, etc
 
-Ensure the following files pull from the appropriate file names:
+_Ensure the following files pull from the appropriate file names:_
 1. ```Cluster_Retailers.py```
 2. ```Populate_Adjacents.py```
 3. ```Basket_Insights.py```
