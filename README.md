@@ -10,7 +10,12 @@ Assuming a MainData.csv with 2 million rows (75 MB), run time is roughly **25 mi
 
 ## Run It!
 
-To set up, place your main transaction data and retailer clusters into ``` /assets/requirements ``` folders. Then, ensure the following files have the appropriate file_names:
+#### Inputs (Stored in Assets / Requirements)
+
+1. **Clustered Retailers**: CSV of retailerID and Cluster
+2. **Main Data**: CSV with row as product, with columns for TransactionID, Product_of_Interest_Flag, etc
+
+Ensure the following files pull from the appropriate file names:
 1. ```Cluster_Retailers.py```
 2. ```Populate_Adjacents.py```
 3. ```Basket_Insights.py```
@@ -40,11 +45,6 @@ To run the streamlit application:   ```streamlit run Retail_Dashoard.py```
 
 1. Install the required packages (this will do automatically when running run_computation.py):
     ```sh pip install -r requirements.txt ```
-
-### Required Inputs (Stored in Assets / Requirements)
-
-1. **Clustered Retailers**: Path to a csv of retailerID and Cluster
-2. **Main Data**: Path to CSV with row as product, with columns for TransactionID, Product_of_Interest_Flag, etc
 
 ### Optional Inputs 
 ##### Program will save data at this incremental step for future efficiency. Find quickStep boolean in Populate_Adjacents to toggle this step
