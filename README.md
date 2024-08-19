@@ -8,7 +8,7 @@
 Mobile_Retail_Dashboard is a Python project designed to perform various computations related to retailer data. The main script, `run_computation.py`, orchestrates several Python scripts to compute insights and reports.
 Assuming a MainData.csv with 2 million rows (75 MB), run time is roughly **25 minutes.**
 
-I built this end-to-end application to expand the reach of Amydga, an intelligence system for the Alcohol Industry. This dashboard helped Amygda add 350 retailers to their network (and counting).
+I built this end-to-end application to expand the coverage of **Amydga**, an intelligence system for the Alcohol Industry. This dashboard helped Amygda add 350 retailers to their network (and counting).
 
 ## Run It!
 
