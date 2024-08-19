@@ -8,10 +8,12 @@
 Mobile_Retail_Dashboard is a Python project designed to perform various computations related to retailer data. The main script, `run_computation.py`, orchestrates several Python scripts to compute insights and reports.
 Assuming a MainData.csv with 2 million rows (75 MB), run time is roughly **25 minutes.**
 
+I built this end-to-end application to expand the reach of Amydga, an intelligence system for the Alcohol Industry. This dashboard helped Amygda add 350 retailers to their network (and counting).
+
 ## Run It!
 
-#### Inputs (Stored in Assets / Requirements)
-
+### Inputs
+_Store the 2 main data files in /Assets/Requirements:_
 1. **Clustered Retailers**: CSV of retailerID and Cluster
 2. **Main Data**: CSV with row as product, with columns for TransactionID, Product_of_Interest_Flag, etc
 
@@ -20,15 +22,17 @@ _Ensure the following files pull from the appropriate file names:_
 2. ```Populate_Adjacents.py```
 3. ```Basket_Insights.py```
 
-#### Computation
+### Computation
 
 To run all computation:  ```python3 run_computation.py ```
 
-#### Dashboard
+### Dashboard
 
 To run the streamlit application:   ```streamlit run Retail_Dashoard.py```
 
-## Features
+
+
+## Program Descriptions
 
 - Cluster_Retailers.py: Clustering retailers (lightspeed)
 - Populate_Adjacents.py: Populating adjacent data (~17 min)
