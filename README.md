@@ -6,7 +6,7 @@
 ## Overview
 
 Mobile_Retail_Dashboard is a Python project designed to perform various computations related to retailer data. The main script, `run_computation.py`, orchestrates several Python scripts to compute insights and reports.
-Assuming a MainData.csv with 2 million rows (75 MB), run time is **roughly 25 minutes. **
+Assuming a MainData.csv with 2 million rows (75 MB), run time is roughly **25 minutes.**
 
 ## Run It!
 
