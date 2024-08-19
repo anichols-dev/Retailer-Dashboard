@@ -17,7 +17,7 @@ _Store the 2 main data files in /Assets/Requirements:_
 1. **Clustered Retailers**: CSV of retailerID and Cluster
 2. **Main Data**: CSV with row as product, with columns for TransactionID, Product_of_Interest_Flag, etc
 
-_Ensure the following files pull from the appropriate file names:_
+_Ensure the following programs pull from the appropriate file names:_
 1. ```Cluster_Retailers.py```
 2. ```Populate_Adjacents.py```
 3. ```Basket_Insights.py```
