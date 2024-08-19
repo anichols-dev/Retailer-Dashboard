@@ -17,7 +17,7 @@ To set up, place your main transaction data and retailer clusters into ``` /asse
 
 #### Computation
 
-To run all computation:  ```python3 run_computation_computation.py ```
+To run all computation:  ```python3 run_computation.py ```
 
 #### Dashboard
 
