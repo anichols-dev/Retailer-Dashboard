@@ -8,7 +8,7 @@
 This Retailer Dashboard is a Python program designed to perform various computations on historical transaction data. The main script, `run_computation.py`, orchestrates several Python programs to compute insights and reports.
 Assuming a MainData.csv with 2 million rows (75 MB), run time is roughly **25 minutes.**
 
-I built this end-to-end application to expand the coverage of **Amydga**, an intelligence system for the Alcohol Industry. This dashboard helped Amygda add 350 retailers to their network (and counting).
+I built this end-to-end application to expand the coverage of **Amydga**, an intelligence system for the Alcohol Industry. To date, this dashboard drove Amygda's access to 350 retailers and their live POS data.
 
 ## Run It!
 
