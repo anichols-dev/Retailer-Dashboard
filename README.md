@@ -1,6 +1,6 @@
 # The Amydga Retailer Dashboard 
 #### Alex Nichols, Harris Lencz, Cole Clark 
-#### Reach out to my email below with questions
+#### Reach out to my email below with questions or bugs
 
 
 ## Overview
