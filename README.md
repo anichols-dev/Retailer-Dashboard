@@ -1,4 +1,4 @@
-# README for Retailer Dashboard and Computation
+# Amydga Retailer Dashboard and Computation
 #### Alex Nichols, Harris Lencz, Cole Clark 
 #### Reach out to my email below with questions
 
