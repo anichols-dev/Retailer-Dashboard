@@ -62,4 +62,4 @@ For ```number of clusters``` files:
 
 
 ##### Final Comments
-I learned so much on this project. Thank you Cole and Harris for your contributions.
+I knew none of this before starting. Each step required new research and learning, affirming to me how much I enjoyed to work on difficult problems. Thank you Cole for your guidance and Harris for your camaraderie.
