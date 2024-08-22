@@ -1,4 +1,4 @@
-# Amydga Retailer Dashboard and Computation
+# The Amydga Retailer Dashboard and Computation
 #### Alex Nichols, Harris Lencz, Cole Clark 
 #### Reach out to my email below with questions
 
